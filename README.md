@@ -1,4 +1,3 @@
 # myrepo
 testing my setup
-hello baby
-sdfasdf
+hello testing done right
